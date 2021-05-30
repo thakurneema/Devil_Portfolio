@@ -9,7 +9,7 @@ Devil's Eye is watching..!!
 - But students will be students whatever the era it might be. Therefore, during the zoom sessions the student will switch off their camera and microphone and that is the new normal type of bunking the classes. Having said that, the mentor will be unaware of the status of the student. Finding if the student is attending the class or not is a tough task to do.
 -Therefore, to overcome this problem we are developing an application called “DEVIL’S EYE”, which keeps popping certain questions in periodical timings so as to make sure if the student is attentive during the class or not. If they are attentive then they will answer the right questions and get the attendance of that session. If not, they will miss their attendance. 
 
-# Technologies used to be watched
+# Technologies used to be watched:
 ## Frontend technology:
 - Electron Appplication
 ## Backend technology:
