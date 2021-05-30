@@ -25,4 +25,6 @@ Devil's Eye is watching..!!
 - After exploring, our team and I decided to use the AWS lambda function for response. We used an API key for response on local machines. 
 - Similarly, for the mentors list I have used stored IT and SOFT SKILLS Mentor details.
 - After loading mentor details, I worked on DIALOG BOX POP UP which is the soul of the project. Initially dialog box pop up occurred not on the current window.
-- 
+- Finally, after getting the whole understanding on the electron and how to get the popup box on the particular page which will be embedded in the electron application only. 
+
+# Sprint-4: 
