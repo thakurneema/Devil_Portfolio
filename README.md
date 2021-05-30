@@ -12,11 +12,17 @@ Devil's Eye is watching..!!
 
 
 # Sprint-1: Explored Electron Application
+
+![](images/Sprint1.jpg)
+
 - Devil’s eye is a desktop application. We have decided to design it in an electron app using Javascript . As I have little knowledge in react and javascript in order to design better I learned certain Javascript concepts which are useful to the project. 
 - As I started working on the project it has become tougher than it looked. I have faced the biggest challenge to integrate changes done in Java script to reflect in the main process where the electron apps can work.
 - Inorder to get more understanding and grip on the project,  I have referenced electron documentation and watched some youtube videos and had a firm knowledge on IPC main and renderer process and successfully the hello-world page is designed in electron.
 
 # Sprint-2: Sign In process
+
+![](images/sprint2.jpg)
+
 - To start with the project, our team and I have decided to work on the Sign-In page first for our application.
 - With which the students need to sign-in into the application with an MSIT email. 
 - For the Sign-in application, we used MongoDB for database collection where we stored all MSIT student’s details for instance, student name, email-Id etc in a collections database with their respective ID numbers. 
@@ -25,6 +31,9 @@ Devil's Eye is watching..!!
 - If the user is not legitimate it will ask the user to try again with a valid e-mail ID then the page gets loaded from there.
 
 # Sprint-3: Database in MongoDB
+
+![](images/Sprint3.jpg)
+
 - MongoDB is an open-source document database and leading NoSQL database. MongoDB is written in C++. This tutorial will give you great understanding on MongoDB concepts needed to create and deploy a highly scalable and performance-oriented database.
 - Initially I faced difficulty while working on databases and how to fetch the data from the database on our local machines. 
 - After exploring, our team and I decided to use the AWS lambda function for response. We used an API key for response on local machines. 
