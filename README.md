@@ -32,7 +32,7 @@ Devil's Eye is watching..!!
 
 # Sprint-3: Database in MongoDB
 
-![](images/Sprint3.jpg)
+![](images/Sprint3.png)
 
 - MongoDB is an open-source document database and leading NoSQL database. MongoDB is written in C++. This tutorial will give you great understanding on MongoDB concepts needed to create and deploy a highly scalable and performance-oriented database.
 - Initially I faced difficulty while working on databases and how to fetch the data from the database on our local machines. 
