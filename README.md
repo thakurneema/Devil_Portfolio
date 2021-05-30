@@ -27,4 +27,6 @@ Devil's Eye is watching..!!
 - After loading mentor details, I worked on DIALOG BOX POP UP which is the soul of the project. Initially dialog box pop up occurred not on the current window.
 - Finally, after getting the whole understanding on the electron and how to get the popup box on the particular page which will be embedded in the electron application only. 
 
-# Sprint-4: 
+# Sprint-4: Integrating electron with the database
+- Intially, we struggled to integrate the sigin-in page into the electron application. I am stuck in middle by the integration, watched several videos and understood the basic concepts of pages to integrate and adjust with the electron technologies.
+-  
