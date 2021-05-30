@@ -19,3 +19,10 @@ Devil's Eye is watching..!!
 - Based on the response i.e if the user is legitimate then the application starts  loading to the next page where the mentors page will be loaded. 
 - If the user is not legitimate it will ask the user to try again with a valid e-mail ID then the page gets loaded from there.
 
+# Sprint-3: Database in MongoDB
+- MongoDB is an open-source document database and leading NoSQL database. MongoDB is written in C++. This tutorial will give you great understanding on MongoDB concepts needed to create and deploy a highly scalable and performance-oriented database.
+- Initially I faced difficulty while working on databases and how to fetch the data from the database on our local machines. 
+- After exploring, our team and I decided to use the AWS lambda function for response. We used an API key for response on local machines. 
+- Similarly, for the mentors list I have used stored IT and SOFT SKILLS Mentor details.
+- After loading mentor details, I worked on DIALOG BOX POP UP which is the soul of the project. Initially dialog box pop up occurred not on the current window.
+- 
