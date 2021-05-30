@@ -12,4 +12,10 @@ Devil's Eye is watching..!!
 - Inorder to get more understanding and grip on the project,  I have referenced electron documentation and watched some youtube videos and had a firm knowledge on IPC main and renderer process and successfully the hello-world page is designed in electron.
 
 # Sprint-2: Sign In process
-- 
+- To start with the project, our team and I have decided to work on the Sign-In page first for our application.
+- With which the students need to sign-in into the application with an MSIT email. 
+- For the Sign-in application, we used MongoDB for database collection where we stored all MSIT student’s details for instance, student name, email-Id etc in a collections database with their respective ID numbers. 
+- Whenever an user signs in into a devil's eye application it will send an API which checks whether it is a valid email or not by checking in the database and returns a response.
+- Based on the response i.e if the user is legitimate then the application starts  loading to the next page where the mentors page will be loaded. 
+- If the user is not legitimate it will ask the user to try again with a valid e-mail ID then the page gets loaded from there.
+
