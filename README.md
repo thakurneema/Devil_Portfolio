@@ -1,7 +1,7 @@
-# Devil_Portfolio
+ Devil_Portfolio
 Devil's Eye is watching..!!
 
-# All about the devil's vision
+ All about the devil's vision
 
 ![](images/about.png)
 
@@ -11,7 +11,7 @@ Devil's Eye is watching..!!
 
 
 
-# Sprint-1: Explored Electron Application
+ Sprint-1: Explored Electron Application
 
 ![](images/Sprint1.jpg)
 
@@ -19,7 +19,7 @@ Devil's Eye is watching..!!
 - As I started working on the project it has become tougher than it looked. I have faced the biggest challenge to integrate changes done in Java script to reflect in the main process where the electron apps can work.
 - Inorder to get more understanding and grip on the project,  I have referenced electron documentation and watched some youtube videos and had a firm knowledge on IPC main and renderer process and successfully the hello-world page is designed in electron.
 
-# Sprint-2: Sign In process
+ Sprint-2: Sign In process
 
 ![](images/sprint2.jpg)
 
@@ -30,7 +30,7 @@ Devil's Eye is watching..!!
 - Based on the response i.e if the user is legitimate then the application starts  loading to the next page where the mentors page will be loaded. 
 - If the user is not legitimate it will ask the user to try again with a valid e-mail ID then the page gets loaded from there.
 
-# Sprint-3: Database in MongoDB
+ Sprint-3: Database in MongoDB
 
 ![](images/Sprint3.png)
 
@@ -41,6 +41,6 @@ Devil's Eye is watching..!!
 - After loading mentor details, I worked on DIALOG BOX POP UP which is the soul of the project. Initially dialog box pop up occurred not on the current window.
 - Finally, after getting the whole understanding on the electron and how to get the popup box on the particular page which will be embedded in the electron application only. 
 
-# Sprint-4: Integrating electron with the database
+ Sprint-4: Integrating electron with the database
 - Intially, we struggled to integrate the sigin-in page into the electron application. I am stuck in middle by the integration, watched several videos and understood the basic concepts of pages to integrate and adjust with the electron technologies.
 -  
