@@ -52,5 +52,13 @@ Devil's Eye is watching..!!
 
 ![](images/sprint-4.png)
 
-- Intially, we struggled to integrate the sigin-in page into the electron application. I am stuck in middle by the integration, watched several videos and understood the basic concepts of pages to integrate and adjust with the electron technologies.
--  
+- Initially, we struggled to integrate the sign-in page into the electron application. I am stuck in the middle by the integration, watched several videos and understood the basic concepts of pages to integrate and adjust with the electron technologies.
+- Now, as we discussed earlier, to take the attendance of the student in order to understand if the student is particularly attentive in the class or not. 
+- Speaking of which, I have come up with the idea of generating popup messages which show up on the student screen at random time to check the whereabouts of the students. 
+- Generally, the message asks the student whether he is attentive or not. If yes, the student will click the right button if not the student will tend to click the wrong button or in the least scenario the student will miss to answer the popup message.
+- If the student selects the right answer then the student will get attendance orelse the student will lose the attendance for that particular session.
+- Having said that, I have tried generating the pop messages in the electron app as a trail on the current working window. Later, I have tried to generate the same at regular intervals. To do so, I have used the random library to generate the pop messages at regular intervals on the screen of the students. 
+- After generating the pop messages successfully. Next, I tried to disappear the message after 10 sec. But, the method is not feasible with the electron technology. 
+
+
+
