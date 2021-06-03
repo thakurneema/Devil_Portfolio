@@ -12,11 +12,21 @@ Devil's Eye is watching..!!
 # Technologies used to be watched:
 ## Frontend technology:
 - Electron Appplication
+- HTML
+- CSS
+- JavaScript
+## Middleware: 
+- Express Js
 ## Backend technology:
-- MongoDB
 - AWS lamda functions
+- NodeJs
+## Database:
+- MongoDB
 ## Code Versioning System:
 - GitHub
+## Other Technologies : 
+- AWS Cloud
+
 
 # Sprint-1: Explored Electron Application
 
