@@ -72,7 +72,7 @@ Devil's Eye is watching..!!
 
 # Sprint-5:  Hu-mongoose
 
-![](images/1.jpg)
+![](images/11.png)
 
 - We made a schema in which we have details of every student’s daily basis information, including the number of pop-ups that have been generated and these pop-ups answered by each student. 
 - These details are implemented into the mongoDB where we have faced several issues. For example, we were clueless about how to traverse the data of nested schema. We have come up with the solution by referring to several resources like, nodechef, stackOverflow, youtube and mongoose official documentation.
