@@ -79,7 +79,7 @@ Devil's Eye is watching..!!
 - After succeeding in traversing the data we faced another issue while inserting the data with the MongoDB client. We have come up with the solution by referring to a plethora of resources and also mentor support. We successfully inserted the data into the database in the JSON format. 
 - We have also added the styling of our login page application using CSS.  
 
-# Sprint-6:  Backa and Front
+# Sprint-6:  Back and Front
 
 ![](images/11.png)
 
