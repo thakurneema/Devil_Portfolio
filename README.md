@@ -79,5 +79,14 @@ Devil's Eye is watching..!!
 - After succeeding in traversing the data we faced another issue while inserting the data with the MongoDB client. We have come up with the solution by referring to a plethora of resources and also mentor support. We successfully inserted the data into the database in the JSON format. 
 - We have also added the styling of our login page application using CSS.  
 
+# Sprint-6:  Backa and Front
+
+![](images/11.png)
+
+- As I mentioned earlier, we were facing issues while traversing the data during the data retrieval. So, we have seeked help from our mentor for the solution by referring to a plethora of resources. We successfully inserted the data into the database in the JSON format by using mongoose.
+- To test the above schema, we have used different mail-IDs where we have faced the issue of the duplicate data in the schema. So, to overcome this, we have made the necessary changes in the code and resolved it. Later, we have tested the same schema and it has worked as it was expected to be. 
+- While we were working on the backend there was certain work done in the front-end functionalities as well. To make the login page look esthetic and minimalistic we have used plain background and have added a certain CSS style to make the login page simple.
+- Along with that, we have retrieved the data from the database and tried to insert the functionalities of login and logout from the application side. 
+
 
 
