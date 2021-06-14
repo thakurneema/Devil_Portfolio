@@ -81,7 +81,7 @@ Devil's Eye is watching..!!
 
 # Sprint-6:  Back and Front
 
-![](images/11.png)
+![](images/12.png)
 
 - As I mentioned earlier, we were facing issues while traversing the data during the data retrieval. So, we have seeked help from our mentor for the solution by referring to a plethora of resources. We successfully inserted the data into the database in the JSON format by using mongoose.
 - To test the above schema, we have used different mail-IDs where we have faced the issue of the duplicate data in the schema. So, to overcome this, we have made the necessary changes in the code and resolved it. Later, we have tested the same schema and it has worked as it was expected to be. 
