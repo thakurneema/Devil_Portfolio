@@ -88,5 +88,6 @@ Devil's Eye is watching..!!
 - While we were working on the backend there was certain work done in the front-end functionalities as well. To make the login page look esthetic and minimalistic we have used plain background and have added a certain CSS style to make the login page simple.
 - Along with that, we have retrieved the data from the database and tried to insert the functionalities of login and logout from the application side. 
 
+# Sprint-7: 
 
 
