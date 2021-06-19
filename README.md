@@ -90,12 +90,10 @@ Devil's Eye is watching..!!
 
 # Sprint-7: Rendered Data with dashboard
 
+![](images/dashboard.png)
 
 - As we completed login and logout also few other functionalities as well. In this week's sprint we have completed the design of the dashboard by using CSS styling for the application. We have written the schema.
 - We tested the schema in the electron and ran it while the failures were written and had to come up with the solutions to those errors. Also, we have fetched the data from MongoDB and read the data and inserted it into the electron.
 - Similarly, we also completed the SS and styling for the Login page. But we found certain difficulty while traversing the data from the MongoDB to the electron app. 	Also, faced difficulty while representing the data in the tabular form.
 - Later, half of the part was done which was completing the SS and styling for the Login page and the traversing of the data from the MongoDB to the electron app. 
 - But while designing the dashboard and retrive the data from the database and include that in the electron by calling the API calls continued facing difficulty while representing the data in the tabular form
-
-
-
