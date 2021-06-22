@@ -97,3 +97,13 @@ Devil's Eye is watching..!!
 - Similarly, we also completed the SS and styling for the Login page. But we found certain difficulty while traversing the data from the MongoDB to the electron app. 	Also, faced difficulty while representing the data in the tabular form.
 - Later, half of the part was done which was completing the SS and styling for the Login page and the traversing of the data from the MongoDB to the electron app. 
 - But while designing the dashboard and retrive the data from the database and include that in the electron by calling the API calls continued facing difficulty while representing the data in the tabular form
+
+# Sprint-8: The Final Product testing
+
+![](images/dashboard.png)
+
+- As we walk through the whole process we have got the necessary pages and the application purpose right. Now, is to design the pages, add the framework on the desktop application and the dashboard.
+- Including that, we have successfully processed the students attendance data from the MongoDB to the dashboard and also can visually look at the attendance of the students. 
+- We have tested our application which includes certain edge cases for example, if the students join after or before the allotted session timings the application will not work. 
+- Later, we alongside have started working on the technical documentation of the application and prepared a technical presentation for the better understanding of the application requirements to the panel. 
+
