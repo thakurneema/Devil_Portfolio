@@ -100,7 +100,7 @@ Devil's Eye is watching..!!
 
 # Sprint-8: The Final Product testing
 
-![](images/dashboard.png)
+![](images/application-1.jpg)
 
 - As we walk through the whole process we have got the necessary pages and the application purpose right. Now, is to design the pages, add the framework on the desktop application and the dashboard.
 - Including that, we have successfully processed the students attendance data from the MongoDB to the dashboard and also can visually look at the attendance of the students. 
